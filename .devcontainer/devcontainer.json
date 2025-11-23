@@ -1,9 +1,0 @@
-{
-  "name": "Fast Codespace",
-  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
-  "features": {},
-  "forwardPorts": [],
-  "extensions": [
-    "ms-python.python"
-  ]
-}
